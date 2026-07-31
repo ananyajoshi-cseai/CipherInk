@@ -1,0 +1,309 @@
+file,true_label,pred_label,top_candidate,top_probability,confidence,is_outsider,best_student_llr,outsider_score
+Data/eval\A\a_test_1.txt,Student A,Student A,Student A,37.36,Low,False,26.815,0.0159
+Data/eval\A\a_test_10.txt,Student A,Student A,Student A,44.61,Medium,False,28.809,0.015
+Data/eval\A\a_test_11.txt,Student A,Student A,Student A,51.13,High,False,15.94,0.0784
+Data/eval\A\a_test_12.txt,Student A,Student A,Student A,49.41,Medium,False,15.464,0.0801
+Data/eval\A\a_test_13.txt,Student A,Student A,Student A,40.05,Medium,False,8.838,0.1416
+Data/eval\A\a_test_14.txt,Student A,Student E,Student E,29.77,Low,False,2.99,0.2094
+Data/eval\A\a_test_15.txt,Student A,Student A,Student A,41.11,Low,False,35.99,0.006
+Data/eval\A\a_test_16.txt,Student A,Student A,Student A,38.03,Low,False,31.009,0.009899999999999999
+Data/eval\A\a_test_17.txt,Student A,Student A,Student A,31.11,Low,False,25.705,0.0151
+Data/eval\A\a_test_18.txt,Student A,Student A,Student A,34.71,Medium,False,5.198,0.1883
+Data/eval\A\a_test_19.txt,Student A,Student A,Student A,36.65,Low,False,12.952,0.07980000000000001
+Data/eval\A\a_test_2.txt,Student A,Student A,Student A,57.04,High,False,28.016,0.021099999999999997
+Data/eval\A\a_test_20.txt,Student A,Student A,Student A,38.74,Medium,False,28.626,0.0134
+Data/eval\A\a_test_21.txt,Student A,Outsider,Outsider,31.34,Low,True,-0.428,0.3134
+Data/eval\A\a_test_22.txt,Student A,Student A,Student A,53.85,High,False,26.441,0.024
+Data/eval\A\a_test_23.txt,Student A,Student E,Student E,41.15,Medium,False,10.79,0.11560000000000001
+Data/eval\A\a_test_24.txt,Student A,Student A,Student A,37.9,Medium,False,6.125,0.1844
+Data/eval\A\a_test_25.txt,Student A,Student A,Student A,52.38,High,False,22.941,0.0352
+Data/eval\A\a_test_26.txt,Student A,Student A,Student A,48.86,High,False,27.732,0.0187
+Data/eval\A\a_test_27.txt,Student A,Student D,Student D,40.7,Medium,False,31.719,0.0097
+Data/eval\A\a_test_28.txt,Student A,Student A,Student A,34.91,Low,False,34.818,0.0058
+Data/eval\A\a_test_29.txt,Student A,Student A,Student A,42.06,Medium,False,18.431,0.0481
+Data/eval\A\a_test_3.txt,Student A,Student A,Student A,43.03,Medium,False,14.974,0.0739
+Data/eval\A\a_test_30.txt,Student A,Student A,Student A,47.61,Medium,False,34.537,0.008199999999999999
+Data/eval\A\a_test_31.txt,Student A,Student A,Student A,39.86,Low,False,14.985,0.0684
+Data/eval\A\a_test_32.txt,Student A,Student A,Student A,36.04,Medium,False,8.692,0.12960000000000002
+Data/eval\A\a_test_33.txt,Student A,Student A,Student A,31.19,Low,False,20.425,0.0282
+Data/eval\A\a_test_34.txt,Student A,Student C,Student C,41.01,Low,False,33.033,0.0084
+Data/eval\A\a_test_35.txt,Student A,Student A,Student A,34.53,Medium,False,4.215,0.21030000000000001
+Data/eval\A\a_test_36.txt,Student A,Student A,Student A,45.42,Medium,False,11.814,0.11320000000000001
+Data/eval\A\a_test_37.txt,Student A,Student A,Student A,63.28,High,False,44.186,0.0034999999999999996
+Data/eval\A\a_test_38.txt,Student A,Student A,Student A,48.99,Medium,False,18.517,0.0555
+Data/eval\A\a_test_39.txt,Student A,Student A,Student A,42.36,Medium,False,15.473,0.06860000000000001
+Data/eval\A\a_test_4.txt,Student A,Student E,Student E,36.0,Low,False,22.256,0.0263
+Data/eval\A\a_test_40.txt,Student A,Student A,Student A,38.59,Medium,False,5.583,0.20010000000000003
+Data/eval\A\a_test_41.txt,Student A,Student A,Student A,41.68,Medium,False,25.895,0.019799999999999998
+Data/eval\A\a_test_42.txt,Student A,Student A,Student A,45.3,Medium,False,20.04,0.0429
+Data/eval\A\a_test_43.txt,Student A,Student A,Student A,42.02,Medium,False,14.355,0.0776
+Data/eval\A\a_test_44.txt,Student A,Student A,Student A,48.61,Medium,False,27.077,0.020099999999999996
+Data/eval\A\a_test_45.txt,Student A,Student A,Student A,45.19,Medium,False,16.714,0.0632
+Data/eval\A\a_test_46.txt,Student A,Student A,Student A,40.11,Medium,False,32.06,0.0092
+Data/eval\A\a_test_47.txt,Student A,Student A,Student A,41.51,Medium,False,34.652,0.006999999999999999
+Data/eval\A\a_test_48.txt,Student A,Student A,Student A,32.16,Low,False,20.659,0.028300000000000002
+Data/eval\A\a_test_49.txt,Student A,Student A,Student A,61.99,High,False,23.756,0.0379
+Data/eval\A\a_test_5.txt,Student A,Student D,Student D,41.26,Low,False,26.15,0.019
+Data/eval\A\a_test_50.txt,Student A,Student A,Student A,46.08,Medium,False,21.302,0.037599999999999995
+Data/eval\A\a_test_6.txt,Student A,Student A,Student A,36.31,Low,False,20.686,0.0318
+Data/eval\A\a_test_7.txt,Student A,Student A,Student A,61.78,High,False,36.624,0.0083
+Data/eval\A\a_test_8.txt,Student A,Student A,Student A,38.06,Low,False,13.036,0.0821
+Data/eval\A\a_test_9.txt,Student A,Student A,Student A,49.31,Medium,False,26.618,0.0215
+Data/eval\B\b_test_1.txt,Student B,Student C,Student C,52.1,High,False,15.319,0.0859
+Data/eval\B\b_test_10.txt,Student B,Student E,Student E,28.48,Low,False,32.129,0.006500000000000001
+Data/eval\B\b_test_11.txt,Student B,Student B,Student B,69.41,High,False,35.634,0.0105
+Data/eval\B\b_test_12.txt,Student B,Student B,Student B,94.04,High,False,60.852,0.0007000000000000001
+Data/eval\B\b_test_13.txt,Student B,Student B,Student B,91.17,High,False,36.04,0.0131
+Data/eval\B\b_test_14.txt,Student B,Student B,Student B,82.37,High,False,30.818,0.0219
+Data/eval\B\b_test_15.txt,Student B,Student B,Student B,73.61,High,False,12.778,0.1637
+Data/eval\B\b_test_16.txt,Student B,Student B,Student B,63.31,High,False,13.456,0.13
+Data/eval\B\b_test_17.txt,Student B,Outsider,Outsider,60.62,Low,True,-5.528,0.6062
+Data/eval\B\b_test_18.txt,Student B,Student B,Student B,55.7,High,False,11.004,0.15259999999999999
+Data/eval\B\b_test_19.txt,Student B,Student B,Student B,73.26,High,False,29.961,0.0216
+Data/eval\B\b_test_2.txt,Student B,Student C,Student C,44.83,Medium,False,12.031,0.10890000000000001
+Data/eval\B\b_test_20.txt,Student B,Student B,Student B,54.49,High,False,35.742,0.008100000000000001
+Data/eval\B\b_test_21.txt,Student B,Student B,Student B,82.15,High,False,37.521,0.009899999999999999
+Data/eval\B\b_test_22.txt,Student B,Student B,Student B,47.87,Medium,False,6.822,0.2145
+Data/eval\B\b_test_23.txt,Student B,Student B,Student B,61.9,High,False,15.229,0.1032
+Data/eval\B\b_test_24.txt,Student B,Student B,Student B,51.66,Medium,False,31.092,0.013300000000000001
+Data/eval\B\b_test_25.txt,Student B,Student B,Student B,64.23,High,False,15.617,0.1023
+Data/eval\B\b_test_26.txt,Student B,Student B,Student B,90.55,High,False,43.51,0.0054
+Data/eval\B\b_test_27.txt,Student B,Student B,Student B,85.71,High,False,40.72,0.0070999999999999995
+Data/eval\B\b_test_28.txt,Student B,Student B,Student B,94.74,High,False,54.357,0.0016
+Data/eval\B\b_test_29.txt,Student B,Student B,Student B,72.62,High,False,34.648,0.0123
+Data/eval\B\b_test_3.txt,Student B,Student C,Student C,46.59,Medium,False,21.414,0.0375
+Data/eval\B\b_test_30.txt,Student B,Student B,Student B,85.71,High,False,42.011,0.0060999999999999995
+Data/eval\B\b_test_31.txt,Student B,Outsider,Outsider,28.32,Low,True,-1.306,0.2832
+Data/eval\B\b_test_32.txt,Student B,Student C,Student C,85.94,High,False,56.825,0.0011
+Data/eval\B\b_test_33.txt,Student B,Student B,Student B,30.83,Low,False,7.838,0.1226
+Data/eval\B\b_test_34.txt,Student B,Student B,Student B,89.24,High,False,43.233,0.0055000000000000005
+Data/eval\B\b_test_35.txt,Student B,Student C,Student C,45.57,Medium,False,24.518,0.0255
+Data/eval\B\b_test_36.txt,Student B,Student C,Student C,34.08,Low,False,28.625,0.011699999999999999
+Data/eval\B\b_test_37.txt,Student B,Student B,Student B,51.2,High,False,23.701,0.0315
+Data/eval\B\b_test_38.txt,Student B,Student B,Student B,60.68,High,False,42.356,0.0042
+Data/eval\B\b_test_39.txt,Student B,Student B,Student B,68.14,High,False,42.088,0.0048
+Data/eval\B\b_test_4.txt,Student B,Student B,Student B,51.32,Medium,False,19.728,0.0504
+Data/eval\B\b_test_40.txt,Student B,Student B,Student B,45.54,Medium,False,6.56,0.21050000000000002
+Data/eval\B\b_test_41.txt,Student B,Student B,Student B,65.3,High,False,15.189,0.1094
+Data/eval\B\b_test_42.txt,Student B,Student B,Student B,40.93,Medium,False,10.828,0.11449999999999999
+Data/eval\B\b_test_43.txt,Student B,Student C,Student C,73.04,High,False,20.313,0.0669
+Data/eval\B\b_test_44.txt,Student B,Student B,Student B,46.62,Medium,False,23.077,0.030899999999999997
+Data/eval\B\b_test_45.txt,Student B,Student B,Student B,42.32,Medium,False,37.552,0.0051
+Data/eval\B\b_test_46.txt,Student B,Student E,Student E,28.59,Low,False,15.554,0.045899999999999996
+Data/eval\B\b_test_47.txt,Student B,Outsider,Outsider,42.64,Low,True,-4.559,0.4264
+Data/eval\B\b_test_48.txt,Student B,Student B,Student B,66.84,High,False,34.573,0.011399999999999999
+Data/eval\B\b_test_49.txt,Student B,Student B,Student B,80.62,High,False,20.612,0.0713
+Data/eval\B\b_test_5.txt,Student B,Student B,Student B,27.74,Low,False,1.359,0.2365
+Data/eval\B\b_test_50.txt,Student B,Student B,Student B,72.84,High,False,29.829,0.0218
+Data/eval\B\b_test_6.txt,Student B,Student C,Student C,42.31,Medium,False,8.174,0.1618
+Data/eval\B\b_test_7.txt,Student B,Student C,Student C,25.82,Low,False,2.541,0.19140000000000001
+Data/eval\B\b_test_8.txt,Student B,Student D,Student D,27.25,Low,False,6.656,0.1245
+Data/eval\B\b_test_9.txt,Student B,Student B,Student B,26.33,Low,False,26.443,0.011699999999999999
+Data/eval\C\c_test_1.txt,Student C,Student E,Student E,35.84,Medium,False,6.734,0.1623
+Data/eval\C\c_test_10.txt,Student C,Student E,Student E,29.84,Low,False,0.516,0.2808
+Data/eval\C\c_test_11.txt,Student C,Student B,Student B,60.96,High,False,22.035,0.045599999999999995
+Data/eval\C\c_test_12.txt,Student C,Student A,Student A,28.63,Low,False,5.404,0.1516
+Data/eval\C\c_test_13.txt,Student C,Student D,Student D,32.5,Low,False,22.984,0.0218
+Data/eval\C\c_test_14.txt,Student C,Student C,Student C,46.08,Medium,False,21.29,0.037599999999999995
+Data/eval\C\c_test_15.txt,Student C,Student E,Student E,33.68,Low,False,23.67,0.0208
+Data/eval\C\c_test_16.txt,Student C,Student D,Student D,42.7,Medium,False,14.744,0.0754
+Data/eval\C\c_test_17.txt,Student C,Student E,Student E,35.01,Medium,False,11.26,0.0931
+Data/eval\C\c_test_18.txt,Student C,Student C,Student C,90.2,High,False,49.164,0.0028000000000000004
+Data/eval\C\c_test_19.txt,Student C,Student E,Student E,35.24,Low,False,19.546,0.0353
+Data/eval\C\c_test_2.txt,Student C,Student E,Student E,28.83,Low,False,15.59,0.0461
+Data/eval\C\c_test_20.txt,Student C,Student E,Student E,32.9,Low,False,16.307,0.0483
+Data/eval\C\c_test_21.txt,Student C,Student E,Student E,59.64,High,False,36.149,0.0085
+Data/eval\C\c_test_22.txt,Student C,Student E,Student E,39.17,Low,False,25.04,0.0206
+Data/eval\C\c_test_23.txt,Student C,Student C,Student C,54.71,Medium,False,36.921,0.0070999999999999995
+Data/eval\C\c_test_24.txt,Student C,Student D,Student D,33.65,Low,False,19.556,0.0337
+Data/eval\C\c_test_25.txt,Student C,Student C,Student C,47.75,Medium,False,35.32,0.0075
+Data/eval\C\c_test_26.txt,Student C,Student E,Student E,39.36,Medium,False,20.013,0.0374
+Data/eval\C\c_test_27.txt,Student C,Student C,Student C,54.09,High,False,22.176,0.0398
+Data/eval\C\c_test_28.txt,Student C,Student D,Student D,45.54,Medium,False,26.744,0.0196
+Data/eval\C\c_test_29.txt,Student C,Student E,Student E,33.99,Low,False,29.201,0.0109
+Data/eval\C\c_test_3.txt,Student C,Outsider,Outsider,35.45,Low,True,-5.154,0.35450000000000004
+Data/eval\C\c_test_30.txt,Student C,Student D,Student D,54.87,High,False,34.781,0.0092
+Data/eval\C\c_test_31.txt,Student C,Student A,Student A,30.28,Low,False,36.729,0.004
+Data/eval\C\c_test_32.txt,Student C,Student E,Student E,41.42,Low,False,33.132,0.0084
+Data/eval\C\c_test_33.txt,Student C,Student E,Student E,30.89,Low,False,6.504,0.1437
+Data/eval\C\c_test_34.txt,Student C,Student D,Student D,38.29,Medium,False,17.955,0.0463
+Data/eval\C\c_test_35.txt,Student C,Student A,Student A,34.3,Low,False,30.993,0.0089
+Data/eval\C\c_test_36.txt,Student C,Student B,Student B,36.18,Medium,False,11.532,0.0932
+Data/eval\C\c_test_37.txt,Student C,Student E,Student E,25.89,Low,False,10.379,0.07629999999999999
+Data/eval\C\c_test_38.txt,Student C,Student B,Student B,55.76,High,False,25.264,0.0285
+Data/eval\C\c_test_39.txt,Student C,Student E,Student E,30.26,Low,False,33.889,0.005600000000000001
+Data/eval\C\c_test_4.txt,Student C,Student E,Student E,50.3,High,False,20.505,0.0451
+Data/eval\C\c_test_40.txt,Student C,Student E,Student E,31.61,Low,False,27.897,0.011899999999999999
+Data/eval\C\c_test_41.txt,Student C,Student C,Student C,62.3,High,False,43.079,0.0039000000000000003
+Data/eval\C\c_test_42.txt,Student C,Student C,Student C,89.36,High,False,39.845,0.008199999999999999
+Data/eval\C\c_test_43.txt,Student C,Student C,Student C,71.03,High,False,36.197,0.01
+Data/eval\C\c_test_44.txt,Student C,Student C,Student C,50.45,Medium,False,47.728,0.0018
+Data/eval\C\c_test_45.txt,Student C,Student E,Student E,31.52,Low,False,49.802,0.0009
+Data/eval\C\c_test_46.txt,Student C,Student E,Student E,35.92,Low,False,38.778,0.0038
+Data/eval\C\c_test_47.txt,Student C,Student E,Student E,34.06,Low,False,43.406,0.0021
+Data/eval\C\c_test_48.txt,Student C,Student E,Student E,41.81,Medium,False,44.174,0.0023
+Data/eval\C\c_test_49.txt,Student C,Student E,Student E,30.34,Low,False,2.039,0.23870000000000002
+Data/eval\C\c_test_5.txt,Student C,Student E,Student E,33.09,Medium,False,6.089,0.1617
+Data/eval\C\c_test_50.txt,Student C,Student D,Student D,47.01,Medium,False,18.822,0.051399999999999994
+Data/eval\C\c_test_6.txt,Student C,Student C,Student C,63.67,High,False,16.555,0.0908
+Data/eval\C\c_test_7.txt,Student C,Student E,Student E,32.11,Low,False,6.658,0.1467
+Data/eval\C\c_test_8.txt,Student C,Student D,Student D,28.32,Low,False,8.891,0.09949999999999999
+Data/eval\C\c_test_9.txt,Student C,Student D,Student D,33.87,Low,False,19.91,0.0326
+Data/eval\D\d_test_1.txt,Student D,Student C,Student C,50.22,High,False,19.969,0.0479
+Data/eval\D\d_test_10.txt,Student D,Student D,Student D,30.02,Low,False,11.78,0.0751
+Data/eval\D\d_test_11.txt,Student D,Student D,Student D,47.84,Medium,False,24.669,0.0263
+Data/eval\D\d_test_12.txt,Student D,Student D,Student D,32.24,Low,False,4.67,0.1861
+Data/eval\D\d_test_13.txt,Student D,Student D,Student D,43.27,Medium,False,19.229,0.0451
+Data/eval\D\d_test_14.txt,Student D,Student D,Student D,48.44,Medium,False,18.803,0.053
+Data/eval\D\d_test_15.txt,Student D,Student D,Student D,30.09,Low,False,7.29,0.1276
+Data/eval\D\d_test_16.txt,Student D,Student D,Student D,27.93,Low,False,1.593,0.2316
+Data/eval\D\d_test_17.txt,Student D,Student D,Student D,32.01,Low,False,8.394,0.1192
+Data/eval\D\d_test_18.txt,Student D,Student D,Student D,45.33,Medium,False,18.438,0.0518
+Data/eval\D\d_test_19.txt,Student D,Student D,Student D,43.38,Medium,False,15.069,0.0737
+Data/eval\D\d_test_2.txt,Student D,Student E,Student E,25.39,Low,False,3.895,0.1605
+Data/eval\D\d_test_20.txt,Student D,Student D,Student D,46.51,High,False,17.512,0.0593
+Data/eval\D\d_test_21.txt,Student D,Student D,Student D,38.35,Medium,False,20.883,0.0329
+Data/eval\D\d_test_22.txt,Student D,Student D,Student D,31.43,Low,False,6.958,0.1386
+Data/eval\D\d_test_23.txt,Student D,Student D,Student D,44.45,Medium,False,23.696,0.0274
+Data/eval\D\d_test_24.txt,Student D,Student E,Student E,34.92,Low,False,10.623,0.1001
+Data/eval\D\d_test_25.txt,Student D,Student D,Student D,36.14,Low,False,23.286,0.0233
+Data/eval\D\d_test_26.txt,Student D,Student D,Student D,52.47,Medium,False,30.912,0.0138
+Data/eval\D\d_test_27.txt,Student D,Student D,Student D,50.37,Medium,False,18.127,0.059699999999999996
+Data/eval\D\d_test_28.txt,Student D,Student D,Student D,37.15,Medium,False,10.796,0.1043
+Data/eval\D\d_test_29.txt,Student D,Student D,Student D,26.46,Low,False,2.691,0.1928
+Data/eval\D\d_test_3.txt,Student D,Student D,Student D,30.95,Low,False,18.735,0.0341
+Data/eval\D\d_test_30.txt,Student D,Student D,Student D,28.03,Low,False,6.15,0.136
+Data/eval\D\d_test_31.txt,Student D,Student D,Student D,46.49,Medium,False,31.681,0.011200000000000002
+Data/eval\D\d_test_32.txt,Student D,Student D,Student D,31.11,Low,False,7.862,0.1234
+Data/eval\D\d_test_33.txt,Student D,Student D,Student D,29.12,Low,False,5.838,0.1465
+Data/eval\D\d_test_34.txt,Student D,Student D,Student D,32.04,Low,False,11.726,0.0806
+Data/eval\D\d_test_35.txt,Student D,Student D,Student D,31.25,Low,False,9.869,0.09789999999999999
+Data/eval\D\d_test_36.txt,Student D,Student D,Student D,53.67,High,False,19.864,0.0519
+Data/eval\D\d_test_37.txt,Student D,Student E,Student E,31.95,Low,False,9.66,0.1025
+Data/eval\D\d_test_38.txt,Student D,Student D,Student D,39.45,Medium,False,14.641,0.0705
+Data/eval\D\d_test_39.txt,Student D,Student D,Student D,38.77,Medium,False,32.294,0.0087
+Data/eval\D\d_test_4.txt,Student D,Student D,Student D,42.62,Medium,False,16.277,0.06280000000000001
+Data/eval\D\d_test_40.txt,Student D,Student D,Student D,33.96,Low,False,9.174,0.11539999999999999
+Data/eval\D\d_test_41.txt,Student D,Student B,Student B,34.35,Low,False,10.928,0.095
+Data/eval\D\d_test_42.txt,Student D,Student D,Student D,35.87,Medium,False,22.459,0.0255
+Data/eval\D\d_test_43.txt,Student D,Student D,Student D,47.21,Medium,False,12.176,0.1127
+Data/eval\D\d_test_44.txt,Student D,Student D,Student D,37.22,Low,False,11.581,0.0953
+Data/eval\D\d_test_45.txt,Student D,Student D,Student D,58.31,High,False,26.555,0.0256
+Data/eval\D\d_test_46.txt,Student D,Student D,Student D,47.77,Medium,False,25.373,0.0241
+Data/eval\D\d_test_47.txt,Student D,Student D,Student D,51.58,Medium,False,25.228,0.0265
+Data/eval\D\d_test_48.txt,Student D,Student D,Student D,51.3,High,False,22.422,0.036699999999999997
+Data/eval\D\d_test_49.txt,Student D,Student D,Student D,49.6,Medium,False,22.269,0.0361
+Data/eval\D\d_test_5.txt,Student D,Student D,Student D,48.99,Medium,False,24.649,0.027000000000000003
+Data/eval\D\d_test_50.txt,Student D,Student D,Student D,34.42,Medium,False,4.336,0.2066
+Data/eval\D\d_test_6.txt,Student D,Student D,Student D,41.26,Medium,False,15.028,0.0704
+Data/eval\D\d_test_7.txt,Student D,Student D,Student D,43.45,Medium,False,3.728,0.2802
+Data/eval\D\d_test_8.txt,Student D,Student D,Student D,36.12,Low,False,2.231,0.2778
+Data/eval\D\d_test_9.txt,Student D,Student D,Student D,27.38,Low,False,3.005,0.19219999999999998
+Data/eval\E\e_test_1.txt,Student E,Student C,Student C,73.45,High,False,32.119,0.0168
+Data/eval\E\e_test_10.txt,Student E,Student C,Student C,54.74,Medium,False,32.784,0.0116
+Data/eval\E\e_test_11.txt,Student E,Student C,Student C,36.3,Low,False,45.444,0.0017000000000000001
+Data/eval\E\e_test_12.txt,Student E,Student E,Student E,25.45,Low,False,3.526,0.1681
+Data/eval\E\e_test_13.txt,Student E,Student E,Student E,22.05,Low,False,0.058,0.21899999999999997
+Data/eval\E\e_test_14.txt,Student E,Student B,Student B,74.0,High,False,50.637,0.0019
+Data/eval\E\e_test_15.txt,Student E,Student E,Student E,35.14,Low,False,22.391,0.0252
+Data/eval\E\e_test_16.txt,Student E,Student C,Student C,45.34,Medium,False,27.749,0.0173
+Data/eval\E\e_test_17.txt,Student E,Student E,Student E,35.09,Low,False,33.829,0.0066
+Data/eval\E\e_test_18.txt,Student E,Student C,Student C,48.59,Medium,False,23.615,0.0302
+Data/eval\E\e_test_19.txt,Student E,Student A,Student A,29.39,Low,False,28.881,0.0098
+Data/eval\E\e_test_2.txt,Student E,Student C,Student C,87.91,High,False,35.111,0.0141
+Data/eval\E\e_test_20.txt,Student E,Student C,Student C,56.21,High,False,25.569,0.0278
+Data/eval\E\e_test_21.txt,Student E,Student A,Student A,40.87,Medium,False,29.851,0.012199999999999999
+Data/eval\E\e_test_22.txt,Student E,Student E,Student E,33.32,Medium,False,42.027,0.0024
+Data/eval\E\e_test_23.txt,Student E,Student E,Student E,41.93,Low,False,42.486,0.0028000000000000004
+Data/eval\E\e_test_24.txt,Student E,Student E,Student E,42.03,Medium,False,22.284,0.0305
+Data/eval\E\e_test_25.txt,Student E,Student E,Student E,54.75,High,False,15.8,0.08529999999999999
+Data/eval\E\e_test_26.txt,Student E,Student E,Student E,45.94,Medium,False,7.461,0.191
+Data/eval\E\e_test_27.txt,Student E,Student E,Student E,38.59,Medium,False,16.058,0.0583
+Data/eval\E\e_test_28.txt,Student E,Student E,Student E,40.54,Medium,False,10.759,0.1143
+Data/eval\E\e_test_29.txt,Student E,Student B,Student B,31.62,Low,False,14.165,0.059699999999999996
+Data/eval\E\e_test_3.txt,Student E,Student C,Student C,59.45,High,False,26.745,0.0256
+Data/eval\E\e_test_30.txt,Student E,Student E,Student E,33.45,Low,False,14.292,0.0623
+Data/eval\E\e_test_31.txt,Student E,Student E,Student E,37.61,Medium,False,18.858,0.0409
+Data/eval\E\e_test_32.txt,Student E,Student E,Student E,42.79,Medium,False,30.693,0.0116
+Data/eval\E\e_test_33.txt,Student E,Student D,Student D,30.09,Low,False,38.045,0.0034000000000000002
+Data/eval\E\e_test_34.txt,Student E,Student A,Student A,26.23,Low,False,35.976,0.0038
+Data/eval\E\e_test_35.txt,Student E,Student E,Student E,29.45,Low,False,9.032,0.1018
+Data/eval\E\e_test_36.txt,Student E,Student E,Student E,36.36,Medium,False,8.486,0.134
+Data/eval\E\e_test_37.txt,Student E,Student E,Student E,31.12,Low,False,33.106,0.0063
+Data/eval\E\e_test_38.txt,Student E,Student E,Student E,33.5,Low,False,9.771,0.1061
+Data/eval\E\e_test_39.txt,Student E,Student C,Student C,68.44,High,False,12.396,0.1592
+Data/eval\E\e_test_4.txt,Student E,Student C,Student C,76.53,High,False,28.319,0.0273
+Data/eval\E\e_test_40.txt,Student E,Student E,Student E,32.28,Low,False,7.015,0.1414
+Data/eval\E\e_test_41.txt,Student E,Student B,Student B,30.26,Low,False,17.505,0.038599999999999995
+Data/eval\E\e_test_42.txt,Student E,Student D,Student D,21.95,Low,False,1.667,0.1804
+Data/eval\E\e_test_43.txt,Student E,Student E,Student E,34.12,Low,False,18.483,0.0388
+Data/eval\E\e_test_44.txt,Student E,Student E,Student E,40.17,Medium,False,12.462,0.09269999999999999
+Data/eval\E\e_test_45.txt,Student E,Student C,Student C,33.73,Low,False,11.137,0.091
+Data/eval\E\e_test_46.txt,Student E,Student E,Student E,35.68,Low,False,27.381,0.014199999999999999
+Data/eval\E\e_test_47.txt,Student E,Student A,Student A,39.42,Low,False,32.184,0.0089
+Data/eval\E\e_test_48.txt,Student E,Student E,Student E,52.21,High,False,17.18,0.0692
+Data/eval\E\e_test_49.txt,Student E,Student E,Student E,29.11,Low,False,22.321,0.021099999999999997
+Data/eval\E\e_test_5.txt,Student E,Student C,Student C,65.79,High,False,21.282,0.0538
+Data/eval\E\e_test_50.txt,Student E,Student E,Student E,36.17,Low,False,18.643,0.0403
+Data/eval\E\e_test_6.txt,Student E,Student C,Student C,42.76,Medium,False,13.42,0.0882
+Data/eval\E\e_test_7.txt,Student E,Student C,Student C,64.54,High,False,20.977,0.0547
+Data/eval\E\e_test_8.txt,Student E,Student C,Student C,58.45,High,False,18.767,0.0643
+Data/eval\E\e_test_9.txt,Student E,Student C,Student C,36.1,Low,False,22.297,0.0262
+Data/eval\Outsider\dorian.txt,Outsider,Student D,Student D,100.0,High,False,2937.015,0.0
+Data/eval\Outsider\dracula.txt,Outsider,Student E,Student E,100.0,High,False,3970.755,0.0
+Data/eval\Outsider\edgar.txt,Outsider,Student A,Student A,100.0,High,False,3177.648,0.0
+Data/eval\Outsider\modern.txt,Outsider,Student E,Student E,99.69,High,False,1553.441,0.0
+Data/eval\Outsider\outsider_test_1.txt,Outsider,Outsider,Outsider,39.24,Low,True,-2.14,0.3924
+Data/eval\Outsider\outsider_test_10.txt,Outsider,Outsider,Outsider,57.92,Low,True,-7.715,0.5792
+Data/eval\Outsider\outsider_test_11.txt,Outsider,Outsider,Outsider,61.79,Medium,True,-11.3,0.6179
+Data/eval\Outsider\outsider_test_12.txt,Outsider,Outsider,Outsider,79.28,Medium,True,-16.645,0.7928000000000001
+Data/eval\Outsider\outsider_test_13.txt,Outsider,Outsider,Outsider,67.99,Medium,True,-13.765,0.6799
+Data/eval\Outsider\outsider_test_14.txt,Outsider,Outsider,Outsider,65.71,Medium,True,-11.3,0.6570999999999999
+Data/eval\Outsider\outsider_test_15.txt,Outsider,Outsider,Outsider,69.5,Medium,True,-11.418,0.695
+Data/eval\Outsider\outsider_test_16.txt,Outsider,Outsider,Outsider,56.0,Medium,True,-9.382,0.56
+Data/eval\Outsider\outsider_test_17.txt,Outsider,Outsider,Outsider,38.41,Low,True,-4.749,0.38409999999999994
+Data/eval\Outsider\outsider_test_18.txt,Outsider,Student E,Student E,42.23,Medium,False,8.025,0.1643
+Data/eval\Outsider\outsider_test_19.txt,Outsider,Outsider,Outsider,50.33,Medium,True,-8.801,0.5033
+Data/eval\Outsider\outsider_test_2.txt,Outsider,Outsider,Outsider,54.26,Medium,True,-8.167,0.5426
+Data/eval\Outsider\outsider_test_20.txt,Outsider,Student E,Student E,36.51,Low,False,3.325,0.2469
+Data/eval\Outsider\outsider_test_21.txt,Outsider,Outsider,Outsider,54.33,Medium,True,-10.89,0.5433
+Data/eval\Outsider\outsider_test_22.txt,Outsider,Outsider,Outsider,66.43,Medium,True,-15.84,0.6643000000000001
+Data/eval\Outsider\outsider_test_23.txt,Outsider,Outsider,Outsider,68.96,Medium,True,-13.039,0.6896
+Data/eval\Outsider\outsider_test_24.txt,Outsider,Outsider,Outsider,50.74,Medium,True,-9.433,0.5074000000000001
+Data/eval\Outsider\outsider_test_25.txt,Outsider,Outsider,Outsider,43.98,Low,True,-4.519,0.43979999999999997
+Data/eval\Outsider\outsider_test_26.txt,Outsider,Outsider,Outsider,65.05,Medium,True,-9.921,0.6505
+Data/eval\Outsider\outsider_test_27.txt,Outsider,Outsider,Outsider,61.28,Medium,True,-10.346,0.6128
+Data/eval\Outsider\outsider_test_28.txt,Outsider,Outsider,Outsider,42.16,Low,True,-3.398,0.4216
+Data/eval\Outsider\outsider_test_29.txt,Outsider,Outsider,Outsider,28.69,Low,True,-0.156,0.2869
+Data/eval\Outsider\outsider_test_3.txt,Outsider,Outsider,Outsider,86.45,High,True,-20.851,0.8645
+Data/eval\Outsider\outsider_test_30.txt,Outsider,Outsider,Outsider,48.4,Low,True,-7.151,0.484
+Data/eval\Outsider\outsider_test_31.txt,Outsider,Outsider,Outsider,64.1,Medium,True,-12.126,0.6409999999999999
+Data/eval\Outsider\outsider_test_32.txt,Outsider,Outsider,Outsider,78.56,Medium,True,-16.553,0.7856000000000001
+Data/eval\Outsider\outsider_test_33.txt,Outsider,Outsider,Outsider,72.36,Medium,True,-16.092,0.7236
+Data/eval\Outsider\outsider_test_34.txt,Outsider,Outsider,Outsider,69.62,Medium,True,-12.481,0.6962
+Data/eval\Outsider\outsider_test_35.txt,Outsider,Outsider,Outsider,58.03,Medium,True,-10.869,0.5803
+Data/eval\Outsider\outsider_test_36.txt,Outsider,Outsider,Outsider,70.45,Medium,True,-14.541,0.7045
+Data/eval\Outsider\outsider_test_37.txt,Outsider,Outsider,Outsider,66.95,Medium,True,-9.867,0.6695
+Data/eval\Outsider\outsider_test_38.txt,Outsider,Outsider,Outsider,49.67,Medium,True,-8.663,0.49670000000000003
+Data/eval\Outsider\outsider_test_39.txt,Outsider,Outsider,Outsider,40.29,Low,True,-5.212,0.4029
+Data/eval\Outsider\outsider_test_4.txt,Outsider,Outsider,Outsider,71.89,Medium,True,-12.872,0.7189
+Data/eval\Outsider\outsider_test_40.txt,Outsider,Outsider,Outsider,64.9,Medium,True,-12.82,0.649
+Data/eval\Outsider\outsider_test_41.txt,Outsider,Outsider,Outsider,40.5,Low,True,-3.894,0.405
+Data/eval\Outsider\outsider_test_42.txt,Outsider,Outsider,Outsider,70.26,Medium,True,-13.92,0.7026
+Data/eval\Outsider\outsider_test_43.txt,Outsider,Outsider,Outsider,39.75,Low,True,-3.33,0.3975
+Data/eval\Outsider\outsider_test_44.txt,Outsider,Outsider,Outsider,69.43,Medium,True,-11.395,0.6943
+Data/eval\Outsider\outsider_test_45.txt,Outsider,Outsider,Outsider,36.03,Low,True,-0.781,0.3603
+Data/eval\Outsider\outsider_test_46.txt,Outsider,Outsider,Outsider,68.66,Medium,True,-14.555,0.6866
+Data/eval\Outsider\outsider_test_47.txt,Outsider,Outsider,Outsider,51.76,Medium,True,-8.629,0.5176
+Data/eval\Outsider\outsider_test_48.txt,Outsider,Outsider,Outsider,65.19,Medium,True,-11.477,0.6518999999999999
+Data/eval\Outsider\outsider_test_49.txt,Outsider,Outsider,Outsider,57.79,Low,True,-7.29,0.5779
+Data/eval\Outsider\outsider_test_5.txt,Outsider,Outsider,Outsider,78.67,Medium,True,-16.772,0.7867000000000001
+Data/eval\Outsider\outsider_test_50.txt,Outsider,Outsider,Outsider,71.93,Medium,True,-15.924,0.7193
+Data/eval\Outsider\outsider_test_6.txt,Outsider,Outsider,Outsider,62.75,Medium,True,-9.029,0.6275
+Data/eval\Outsider\outsider_test_7.txt,Outsider,Outsider,Outsider,71.3,Medium,True,-11.566,0.713
+Data/eval\Outsider\outsider_test_8.txt,Outsider,Outsider,Outsider,47.96,Low,True,-4.434,0.4796
+Data/eval\Outsider\outsider_test_9.txt,Outsider,Outsider,Outsider,73.7,Medium,True,-12.609,0.737
+Data/eval\Outsider\test_ML.txt,Outsider,Student C,Student C,24.61,Low,False,3.223,0.1684
+Data/eval\Outsider\test_US.txt,Outsider,Student C,Student C,24.56,Low (text too short for reliable attribution),False,3.199,0.1685
+Data/eval\Outsider\test_quora.txt,Outsider,Student C,Student C,36.4,Medium,False,8.377,0.1359
+Data/eval\Outsider\text_A.txt,Outsider,Outsider,Outsider,20.86,Low (text too short for reliable attribution),True,-1.754,0.2086
