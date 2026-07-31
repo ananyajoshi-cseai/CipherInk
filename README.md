@@ -109,5 +109,3 @@ This project was engineered and designed by **Team Diazonium**:
 
 * **Ananya Joshi** | *Indira Gandhi Delhi Technical University for Women (IGDTUW)*
 * **Utkarsh Bharadwaj** | *Indian Statistical Institute (ISI) Delhi* – *Statistics, Mathematics, & Backend Architecture*
-
-*Built for the Far Away Zuup Hackathon.*
