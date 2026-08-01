@@ -7,7 +7,7 @@
 [![Statistical Engine](https://img.shields.io/badge/Stats-Poisson_Log--Likelihood-276DC3?style=for-the-badge&logo=r)](#)
 [![Frontend](https://img.shields.io/badge/UI-Cyber_Dark-0D1117?style=for-the-badge)](#)
 <br>
-[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Enter_the_Lab-FF0000?style=for-the-badge)](https://utkarshbharadwaj.github.io/projects/cipherink.html)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-Enter_the_Lab-FF0000?style=for-the-badge)](https://cipherink.onrender.com/)
 
 *Poisson Log-Likelihood • Bayesian Attribution • Multi-Author Analysis*
 
