@@ -34,8 +34,8 @@ FILLERS = [
 ]
 
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR     = os.path.join(BASE_DIR, "data", "students")
-ARCHIVE_FILE = os.path.join(BASE_DIR, "data", "archive.json")
+DATA_DIR     = os.path.join(BASE_DIR, "Data", "Students")
+ARCHIVE_FILE = os.path.join(BASE_DIR, "Data", "archive.json")
 DEFAULT_IDS  = ["A", "B", "C", "D", "E"]
 
 profiles: dict = {}
