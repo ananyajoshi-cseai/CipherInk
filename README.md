@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖋️ CipherInk
+# 🖋️ CipherInk!
 
 ### Interpretable Stylometric Authorship Attribution & Unknown-Author Detection
 
