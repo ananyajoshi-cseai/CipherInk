@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **CipherInk** is an interpretable forensic stylometry framework designed to perform:
 
