@@ -29,7 +29,7 @@
 - **Unknown-author / Outsider detection**
 - **Function-word-based linguistic analysis**
 
-Rather than relying on large language models or opaque text embeddings, CipherInk models an author's stylistic profile using the frequencies of **70 high-frequency function words**. These words are comparatively less dependent on topic and can capture recurring patterns in an author's writing style.
+Rather than relying on large language models or opaque text embeddings, CipherInk models an author's stylistic profile using the frequencies of **70 high-frequency function words**. These words are comparatively less dependent on topic and can capture recurring patterns in an author's writing style
 
 The framework uses **Laplace-smoothed Poisson models** to estimate author-specific function-word distributions. It then evaluates an input text using **log-likelihood scores** and compares the strongest known-author hypothesis against an **Outsider reference profile** using a Log-Likelihood Ratio (LLR) 
 
