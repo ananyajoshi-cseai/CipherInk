@@ -51,7 +51,7 @@ CipherInk is designed as a lightweight and explainable prototype. Its prediction
 | **Real-Time Text Analysis** | Allows users to submit text through an interactive web interface and receive an immediate attribution result. |
 | **Forensic Evidence Breakdown** | Displays expected and observed function-word behaviour to make predictions easier to inspect. |
 | **Classical Baseline Evaluation** | Includes comparison against a Burrows' Delta stylometric baseline under a matched evaluation setting. |
-| **Robustness Analysis** | Examines the effect of different Laplace smoothing values on evaluation performance. |
+| **Robustness Analysis** | Examines the effect of different Laplace smoothing values on evaluation performance |
 
 ---
 
