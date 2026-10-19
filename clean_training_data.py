@@ -20,7 +20,7 @@ def clean_gutenberg_file(filepath):
         # Extract the actual book text
         clean_text = text[start_match.end():end_match.start()].strip()
         
-        # Overwrite the original file with the clean version
+        # Overwrite the original file with clean version
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(clean_text)
             
